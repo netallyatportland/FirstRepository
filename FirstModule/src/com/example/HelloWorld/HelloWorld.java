@@ -11,5 +11,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("remember");
         System.out.println("text add branch 02");
+        System.out.println("bringing from master to branch02");
+    }
     }
 }
