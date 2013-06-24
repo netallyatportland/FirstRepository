@@ -12,6 +12,7 @@ public class HelloWorld {
         System.out.println("remember");
         System.out.println("text add branch 02");
         System.out.println("bringing from master to branch02");
+        System.out.println("add something on branchTest");
     }
-    }
+
 }
